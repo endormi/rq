@@ -3,3 +3,5 @@
 ## Notes: Experimental.
 ## Author: Endormi
 ## Version: 0.0.1
+
+hideHealthBar.lua
