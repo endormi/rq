@@ -5,3 +5,5 @@
 ## Version: 0.0.1
 
 hideHealthBar.lua
+login.lua
+trial.lua
